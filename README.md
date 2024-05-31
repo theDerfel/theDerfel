@@ -14,5 +14,5 @@ Olá,
 
 ## CTF/Walkthrough
  <a href="https://tryhackme.com/p/demelorenan" target="_blank">
-   <img src="https://tryhackme-badges.s3.amazonaws.com/demelorenan.png" alt="TryHackMe">
+   <img src="https://tryhackme-badges.s3.amazonaws.com/theDerfel.png" alt="TryHackMe">
 </a>
