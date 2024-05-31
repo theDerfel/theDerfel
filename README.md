@@ -1,16 +1,16 @@
-## Hi there 👋
+## 🇧🇷 PT-BR
 
-<!--
-**theDerfel/theDerfel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá,
 
-Here are some ideas to get you started:
+- Penetration Tester;
+- CTF Player;
+- Bug Bounty;
+- Application Security;
+- Graduado em Ciência da Computação;
+- Pós-Graduação em Segurança Ofensiva (em andamento).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+- https://www.linkedin.com/in/demelorenan/
+
+## CTF/Walkthrough
+ <script src="https://tryhackme.com/badge/1692458"></script>
