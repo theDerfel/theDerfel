@@ -1,7 +1,5 @@
 # 🇧🇷 PT-BR
 
-Olá,
-
 - Penetration Tester;
 - CTF Player;
 - Bug Bounty;
@@ -11,6 +9,7 @@ Olá,
 
 ## Contato
 - https://www.linkedin.com/in/demelorenan/
+- demelorenan@gmail.com
 
 ## CTF/Walkthrough
  <a href="https://tryhackme.com/p/demelorenan" target="_blank">
