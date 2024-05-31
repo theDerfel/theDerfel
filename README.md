@@ -13,4 +13,6 @@ Olá,
 - https://www.linkedin.com/in/demelorenan/
 
 ## CTF/Walkthrough
- <script src="https://tryhackme.com/badge/1692458"></script>
+ <a href="https://tryhackme.com/p/demelorenan" target="_blank">
+   <img src="https://tryhackme-badges.s3.amazonaws.com/demelorenan.png" alt="TryHackMe">
+</a>
